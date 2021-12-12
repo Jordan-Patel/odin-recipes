@@ -1,5 +1,7 @@
 body {
     background-color: #f2ebc9;
+    text-align: center;
+
 }
 
 h1 {
@@ -12,7 +14,9 @@ h3 {
     font-size: 1rem;
 }
 
+li {
+}
 img {
-    width: 400px;
-    height: 500px;
+    width: 50%;
+    height: 50%;
 }
