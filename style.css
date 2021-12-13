@@ -1,7 +1,7 @@
 body {
-    background-color: #f2ebc9;
-    text-align: center;
-
+    display: block;
+    background-color: #cedae6;
+    width: 75%
 }
 
 h1 {
@@ -9,14 +9,23 @@ h1 {
     font-size: 3rem;
 }
 
-h3 {
+h2 {
     color: #697fbf;
     font-size: 1rem;
 }
 
-li {
+/* ul {
+   text-align: left;
 }
+
+ol {
+    text-align: left;
+} */
+
 img {
+    border: solid;
+    border-width: 20px;
+    border-color: #f2ebc9;
     width: 50%;
     height: 50%;
 }
